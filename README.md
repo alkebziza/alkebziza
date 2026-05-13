@@ -60,6 +60,19 @@ minoring in **Manufacturing and Physical AI**.
 
 ---
 
+## Certifications
+
+- **Ethics for Engineers: Do The Right Thing When Nobody is Looking**  
+  *American Society of Mechanical Engineers (ASME)*  
+
+- **Advanced MATLAB Programming**  
+  *MathWorks*  
+
+- **Core MATLAB Skills**  
+  *MathWorks*  
+
+---
+
 ## Awards & Achievements
 - 🥉 **SIMOC (Singapore International Math Olympiad Challenge)** – Bronze Medal  
 - 🥈 **SASMO (Asian Schools Math Olympiad)** – Silver Medal  
