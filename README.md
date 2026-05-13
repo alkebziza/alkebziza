@@ -3,8 +3,8 @@
 I am a **Mechanical Engineering student at KAIST (Korea Advanced Institute of Science and Technology)**,  
 minoring in **Manufacturing and Physical AI**.
 
-🎓 Full-tuition scholarship recipient | SAT: 1530, GPA 3.07
-🤖 Passionate about robotics, engineering design, and building impactful projects  
+Full-tuition scholarship recipient | SAT: 1530, GPA 3.07
+Passionate about robotics, engineering design, and building impactful projects  
 
 ---
 
@@ -55,8 +55,8 @@ minoring in **Manufacturing and Physical AI**.
   - Reached **10K+ audience** through educational content  
 
 - **Co-Founder — Maqsadly (Startup)**
-  - Organized **14+ masterclasses (100+ participants each)**  
-  - Built systems for large-scale student engagement  
+  - Organized **14+ masterclasses (100+ participants each)** with speakers from top universities.  
+  - Built systems for large-scale student engagement, covering Kazakhstan and Uzbekistan
 
 ---
 
@@ -93,7 +93,7 @@ minoring in **Manufacturing and Physical AI**.
 
 ## What’s Next
 This summer, I will be interning at **NazarX Research and Development Company**,  
-the *only private aerospace company in Uzbekistan*, working on cutting-edge STEM projects.
+the *only private aerospace company in Uzbekistan*, working on the biggest STEM projects in Uzbekistan.
 
 ---
 
@@ -101,8 +101,8 @@ the *only private aerospace company in Uzbekistan*, working on cutting-edge STEM
 - Robotics & Physical AI  
 - Startups & Entrepreneurship  
 - Manufacturing Technologies  
-- Lyrical Poetry  
+- Training Muscles
 
 ---
 
-⭐ *Always building. Always learning. Always creating.*
+*Always building. Always learning. Always creating.*
