@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Aziz
+# Hey there! I'm Aziz
 
 I am a **Mechanical Engineering student at KAIST (Korea Advanced Institute of Science and Technology)**,  
 minoring in **Manufacturing and Physical AI**.
@@ -74,17 +74,19 @@ minoring in **Manufacturing and Physical AI**.
 ---
 
 ## Awards & Achievements
-- 🥉 **SIMOC (Singapore International Math Olympiad Challenge)** – Bronze Medal  
-- 🥈 **SASMO (Asian Schools Math Olympiad)** – Silver Medal  
+- 🥇 **MathLeague International Championship** – 1st Place
 - 🥇 **American Math Olympiad (AMO)** – 1st Place  
-- 🥇 **MathLeague International Championship** – 1st Place  
+- 🥈 **SASMO (Asian Schools Math Olympiad)** – Silver Medal  
+- 🥉 **SIMOC (Singapore International Math Olympiad Challenge)** – Bronze Medal  
+
+ 
 
 ---
 
 ## Speaking & Mentorship
-- 🎤 **TEDxYouth Speaker**  
-- 🎤 Speaker & interviewer at multiple TEDx events  
-- 🌟 Delivered **youth mentorship sessions** across 5 regions in Uzbekistan 
+- **TEDxYouth Speaker**  
+- Speaker & interviewer at multiple TEDx events  
+- Delivered **youth mentorship sessions** across 5 regions in Uzbekistan 
 
 ---
 
