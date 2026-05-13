@@ -120,4 +120,4 @@ the *only private aerospace company in Uzbekistan*, working on the biggest STEM 
 
 ---
 
-*Always building. Always learning. Always creating.*
+*as of 5/13/2026*
