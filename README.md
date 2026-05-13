@@ -3,8 +3,8 @@
 I am a **Mechanical Engineering student at KAIST (Korea Advanced Institute of Science and Technology)**,  
 minoring in **Manufacturing and Physical AI**.
 
-Full-tuition scholarship recipient | SAT: 1530, GPA 3.07
-Passionate about robotics, engineering design, and building impactful projects  
+- Full-tuition scholarship recipient | SAT: 1530, GPA 3.07
+- Passionate about robotics, engineering design, and building impactful projects  
 
 ---
 
